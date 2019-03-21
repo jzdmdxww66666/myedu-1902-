@@ -31,7 +31,7 @@ def float_demo():
     # 声明afloat变量，并赋值1
     afloat = 1.8
     print(afloat)
-    # 打印afloat的类型 type（afloat） 获取afloat的类型
+    # 打印afloat的类型 type（afloat） 获取afloat的  类型
     print(type(afloat))
 
 if __name__ == '__main__':

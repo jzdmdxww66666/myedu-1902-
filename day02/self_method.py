@@ -62,7 +62,7 @@ if __name__ == '__main__':
     oushu(12,79)
     #nub=0
     #for i in range(1,51):
-    #    if i%2 !=0:
+    #     #    if i%2 !=0:
     #        nub = nub+i
     #print(nub)
 
